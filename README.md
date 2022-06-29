@@ -5,3 +5,5 @@
 2. fitbitAPIが睡眠を感知したタイミングでサーバにリクエストを送信
 4. サーバからnatureRemoにリクエストを送る
 5. natureRemoが電気を消す
+
+適当メモ→ https://docs.google.com/document/d/1htLa2Ov_SgmE-baT8Qr5ylutdJLkGbN2-0BEvCzQ43s/edit?usp=sharing
